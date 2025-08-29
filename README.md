@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋 I'm Vidhya Sagar <br>- 🔭 I’m currently working on **Java projects** (Dsa,OOPs ). <br>- 🌱 I’m currently learning  MERN Stack (MongoDB, Express, React, Node.js).<br> - 👯 I’m looking to collaborate on open source projects and web development. <br>- 🤔 I’m looking for help with **optimizing React performance and backend scaling**. <br>- 💬 Ask me about  Java, Data Structures, MERN stack basics. <br>- 📫 How to reach me: LinkedIn: [https://www.linkedin.com/in/vidhya-sagar-valapadasu-60aa56301/]. <br>- 😄 Pronouns: He/Him <br>- ⚡ Fun fact: I love debugging more than coding—it feels like solving a mystery 🕵️‍♂️.
+# Hi there 👋 I'm Vidhya Sagar <br>- 🔭 I’m currently working on Java projects(Dsa,OOPs ). <br>- 🌱 I’m currently learning  MERN Stack (MongoDB, Express, React, Node.js).<br> - 👯 I’m looking to collaborate on open source projects and web development. <br>- 🤔 I’m looking for help with optimizing React performance and backend scaling. <br>- 💬 Ask me about  Java, Data Structures, MERN stack basics. <br>- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/vidhya-sagar-valapadasu-60aa56301/). <br>- 😄 Pronouns: He/Him <br>- ⚡ Fun fact: I love debugging more than coding—it feels like solving a mystery 🕵️‍♂️.
 
 
 ## 🌐 Socials:
